@@ -1,0 +1,3 @@
+/home/iulia/Desktop/tema2_paoo/CMakeFiles/exec.dir
+/home/iulia/Desktop/tema2_paoo/CMakeFiles/edit_cache.dir
+/home/iulia/Desktop/tema2_paoo/CMakeFiles/rebuild_cache.dir
